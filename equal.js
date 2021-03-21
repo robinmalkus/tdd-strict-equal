@@ -5,9 +5,9 @@
 //-- true or false
 
 const trueequal = numsArray => {
-    var equal = 0
+    var equal = 1
     
-    for(let i=0; i <= numsArray.length;i++) {
+    for(let i=1; i <= numsArray.length;i++) {
 
     
     }
